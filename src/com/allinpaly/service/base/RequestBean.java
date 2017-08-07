@@ -1,6 +1,7 @@
 package com.allinpaly.service.base;
 
 /**
+ * 返回数据的模板;
  * Created by prarui on 2017/7/27.
  */
 public class RequestBean<T> {

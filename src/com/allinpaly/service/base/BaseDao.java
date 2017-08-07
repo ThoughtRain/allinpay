@@ -1,7 +1,5 @@
 package com.allinpaly.service.base;
 
-import java.io.Serializable;
-
 /**
  * Created by prarui on 2017/7/17.
  */
@@ -10,9 +8,9 @@ public interface BaseDao<T> {
 
     public void update(T entity);
 
-    public void delete(Serializable id);
+    public void delete(int id);
 
-    public T findById(Serializable id);
+    public T findById(int id);
 
 
 }

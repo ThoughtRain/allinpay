@@ -29,5 +29,6 @@
     <orderEntry type="library" name="org-apache-commons-dbcp-1.2.2-201002241055" level="project" />
     <orderEntry type="library" name="jstl" level="project" />
     <orderEntry type="library" name="gson-2.2.2" level="project" />
+    <orderEntry type="library" name="jsp-api" level="project" />
   </component>
 </module>
